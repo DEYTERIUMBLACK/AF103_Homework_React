@@ -1,9 +1,9 @@
 import Students from "./components/Students"
-import Header from "./components/header"
-import Footer from "./components/footer"
-import Slider from "./components/slider"
-import Contant from "./components/contant"
-import About from "./components/about"
+import Header from "./components/Header"
+import Footer from "./components/Footer"
+import Slider from "./components/Slider"
+import Contant from "./components/Contant"
+import About from "./components/About"
 function App() {
   return (
     <>
