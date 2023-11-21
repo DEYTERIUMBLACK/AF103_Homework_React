@@ -1,7 +1,7 @@
 import React from 'react';
 import Navbar from './components/Navbar';
 import './App.css'
-import AlbumList from './Components/AlbumList';
+import AlbumList from './components/AlbumList';
 const App = () => {
   return (
     <div>
